@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedsawalm2020-creator.github.io/store/sitemap.xml
